@@ -1,4 +1,4 @@
-package 枚举右维护左;
+
 /*
  * @lc app=leetcode.cn id=1512 lang=java
  *
