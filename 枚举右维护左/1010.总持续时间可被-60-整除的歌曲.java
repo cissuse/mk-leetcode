@@ -9,6 +9,7 @@
 import java.util.HashMap;
 
 class Solution {
+
     public int numPairsDivisibleBy60(int[] time) {
         int ans = 0;
         HashMap<Integer, Integer> cnt = new HashMap<>();
