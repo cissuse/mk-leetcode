@@ -26,5 +26,5 @@ class Solution {
         return result == Integer.MAX_VALUE ? -1 : result;
     }
 }
-// @lc code=end
+// @lc code=end+
 
